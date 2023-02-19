@@ -1,0 +1,31 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Sun Feb 19 21:41:34.363103 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00455: Apache/2.4.55 (Win64) configured -- resuming normal operations
+[Sun Feb 19 21:41:34.363103 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Sun Feb 19 21:41:34.363103 2023] [core:notice] [pid 9932:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Feb 19 21:41:34.529807 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00418: Parent: Created child process 19992
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Sun Feb 19 21:41:34.832598 2023] [mpm_winnt:notice] [pid 19992:tid 348] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 9932:tid 324] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Feb 19 21:51:45.045886 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00455: Apache/2.4.55 (Win64) configured -- resuming normal operations
+[Sun Feb 19 21:51:45.045886 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Sun Feb 19 21:51:45.045886 2023] [core:notice] [pid 9932:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Feb 19 21:51:45.056030 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00418: Parent: Created child process 12600
+[Sun Feb 19 21:51:45.987781 2023] [mpm_winnt:notice] [pid 12600:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 19 21:51:50.506735 2023] [mpm_winnt:notice] [pid 19992:tid 348] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 9932:tid 324] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Feb 19 22:15:34.255394 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00455: Apache/2.4.55 (Win64) configured -- resuming normal operations
+[Sun Feb 19 22:15:34.255394 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Sun Feb 19 22:15:34.255394 2023] [core:notice] [pid 9932:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Feb 19 22:15:34.271159 2023] [mpm_winnt:notice] [pid 9932:tid 324] AH00418: Parent: Created child process 9036
+[Sun Feb 19 22:15:35.199049 2023] [mpm_winnt:notice] [pid 9036:tid 360] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 19 22:15:36.200815 2023] [mpm_winnt:notice] [pid 12600:tid 328] AH00364: Child: All worker threads have exited.

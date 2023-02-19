@@ -1,0 +1,35 @@
+[Sun Feb 19 21:43:40.425419 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57184] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:43:40.471155 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57184] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:44:33.000491 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57185] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:44:33.020384 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57185] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:44:56.307554 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57199] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:44:56.363564 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57199] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:45:00.356154 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57199] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:45:00.385386 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57199] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:10.974086 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:10.990342 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:12.248072 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:12.272162 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:12.872049 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:12.899593 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:13.066751 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:13.082744 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:15.175504 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:15.191301 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:16.257079 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:16.274405 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:16.848466 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:16.871312 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:17.050438 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:17.072571 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57401] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:23.844887 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:23.863951 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:23.995929 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:24.012598 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:24.156595 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:24.172885 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:24.375875 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:24.385916 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:25.055174 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs
+[Sun Feb 19 21:51:25.071197 2023] [authz_core:error] [pid 19992:tid 980] [client ::1:57402] AH01630: client denied by server configuration: C:/Apache24/docs, referer: http://localhost/
+[Sun Feb 19 21:51:50.464303 2023] [authz_core:error] [pid 19992:tid 956] [client ::1:57411] AH01630: client denied by server configuration: C:/Apache24/docs
